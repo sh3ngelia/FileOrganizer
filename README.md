@@ -1,4 +1,4 @@
-ქართულად Georgian
+ქართულად Georgian 
 File Organizer Tool არის კონსოლური აპლიკაცია, რომელიც ავტომატურად გადაანაწილებს ფაილებს საქაღალდეში მათი გაფართოების მიხედვით. პროგრამა ასკანირებს კონკრეტულ დირექტორიას, ფილტრავს ფაილებს მოცემული გაფართოებით და მოათავსებს შესაბამის კატეგორიებში: Images, Audio, Videos, Documents, Others.
 
 ძირითადი ფუნქციები:
@@ -26,7 +26,7 @@ Logging - Stream-ებით ლოგირება
 ვისთვისაა ეს პროგრამა?
 ეს პროგრამა გამოიყენება დეველოპერების, სტუდენტების ან ნებისმიერი ადამიანის მიერ, ვისაც სურს დიდი რაოდენობის ფაილების სწრაფი და ეფექტური ორგანიზება.
 
-English ინგლისურად
+English ინგლისურად 
 File Organizer Tool is a console application that automatically arranges files in a folder by their extension. The program scans a specific directory, filters files with a given extension and places them in the appropriate categories: Images, Audio, Videos, Documents, Others.
 
 Main features:
